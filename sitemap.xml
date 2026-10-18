@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://cybertrace.io/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/index.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/index.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/index.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/asyncrat.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/asyncrat.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/asyncrat.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/asyncrat.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/asyncrat.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-001_asyncrat_real_01.png</image:loc>
+      <image:title>AsyncRAT Client Payload Builder &amp; Configurator</image:title>
+      <image:caption>AsyncRAT Client Payload Builder &amp; Configurator // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-001_asyncrat_real_02.svg</image:loc>
+      <image:title>AsyncRAT Remote Desktop &amp; Session Monitoring</image:title>
+      <image:caption>AsyncRAT Remote Desktop &amp; Session Monitoring // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-001_asyncrat_arch.svg</image:loc>
+      <image:title>AsyncRAT Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>AsyncRAT Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/dolphinx.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/dolphinx.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/dolphinx.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/dolphinx.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/dolphinx.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-002_dolphinx_real_01.png</image:loc>
+      <image:title>Dolphin X AI Stealer Builder Interface</image:title>
+      <image:caption>Dolphin X AI Stealer Builder Interface // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-002_dolphinx_real_02.png</image:loc>
+      <image:title>Dolphin X Encrypted Telegram Exfiltration Feed</image:title>
+      <image:caption>Dolphin X Encrypted Telegram Exfiltration Feed // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-002_dolphinx_arch.svg</image:loc>
+      <image:title>Dolphin X Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Dolphin X Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/dolphinx_05_dashboard.png</image:loc>
+      <image:title>Dolphin X Central Web Telemetry Dashboard</image:title>
+      <image:caption>Dolphin X Central Web Telemetry Dashboard // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/lumma-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/lumma-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/lumma-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/lumma-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/lumma-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-003_lumma_real_01.png</image:loc>
+      <image:title>Lumma Stealer Process Execution Graph</image:title>
+      <image:caption>Lumma Stealer Process Execution Graph // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-003_lumma_real_02.png</image:loc>
+      <image:title>LummaC2 Fast-Flux Network Handshake</image:title>
+      <image:caption>LummaC2 Fast-Flux Network Handshake // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-003_lumma_arch.svg</image:loc>
+      <image:title>Lumma Stealer Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Lumma Stealer Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/redline-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/redline-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/redline-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/redline-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/redline-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-004_redline_real_01.png</image:loc>
+      <image:title>RedLine Stealer Lua Bytecode Execution</image:title>
+      <image:caption>RedLine Stealer Lua Bytecode Execution // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-004_redline_real_02.png</image:loc>
+      <image:title>RedLine Browser Credential Vault Grabbing</image:title>
+      <image:caption>RedLine Browser Credential Vault Grabbing // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-004_redline_arch.svg</image:loc>
+      <image:title>RedLine Stealer Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>RedLine Stealer Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/vidar-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/vidar-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/vidar-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/vidar-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/vidar-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-005_vidar_real_01.png</image:loc>
+      <image:title>Vidar Dead-Drop Resolver Telemetry</image:title>
+      <image:caption>Vidar Dead-Drop Resolver Telemetry // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-005_vidar_real_02.png</image:loc>
+      <image:title>Vidar Stealer SQLite Harvesting Routine</image:title>
+      <image:caption>Vidar Stealer SQLite Harvesting Routine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-005_vidar_arch.svg</image:loc>
+      <image:title>Vidar Stealer Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Vidar Stealer Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/agenttesla-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/agenttesla-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/agenttesla-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/agenttesla-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/agenttesla-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-006_agenttesla_real_01.png</image:loc>
+      <image:title>Agent Tesla Process Tree &amp; Weaponized Document</image:title>
+      <image:caption>Agent Tesla Process Tree &amp; Weaponized Document // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-006_agenttesla_real_02.png</image:loc>
+      <image:title>Agent Tesla SMTP Exfiltration Routine</image:title>
+      <image:caption>Agent Tesla SMTP Exfiltration Routine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-006_agenttesla_arch.svg</image:loc>
+      <image:title>Agent Tesla Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Agent Tesla Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/remcos-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/remcos-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/remcos-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/remcos-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/remcos-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-007_remcos_real_01.png</image:loc>
+      <image:title>Remcos Professional Client Builder &amp; Evasion Configurator</image:title>
+      <image:caption>Remcos Professional Client Builder &amp; Evasion Configurator // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-007_remcos_real_02.svg</image:loc>
+      <image:title>Remcos Remote Administration Management Console</image:title>
+      <image:caption>Remcos Remote Administration Management Console // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-007_remcos_arch.svg</image:loc>
+      <image:title>Remcos RAT Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Remcos RAT Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/xworm-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/xworm-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/xworm-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/xworm-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/xworm-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-008_xworm_real_01.png</image:loc>
+      <image:title>XWorm Advanced Payload Builder Interface</image:title>
+      <image:caption>XWorm Advanced Payload Builder Interface // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-008_xworm_real_02.svg</image:loc>
+      <image:title>XWorm Cryptocurrency Clipper Memory Routine</image:title>
+      <image:caption>XWorm Cryptocurrency Clipper Memory Routine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-008_xworm_arch.svg</image:loc>
+      <image:title>XWorm Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>XWorm Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/darkgate-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/darkgate-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/darkgate-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/darkgate-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/darkgate-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-009_darkgate_real_01.png</image:loc>
+      <image:title>DarkGate Malicious MSI &amp; AutoIt Lure</image:title>
+      <image:caption>DarkGate Malicious MSI &amp; AutoIt Lure // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-009_darkgate_real_02.png</image:loc>
+      <image:title>DarkGate Extracted C2 Configuration Parameters</image:title>
+      <image:caption>DarkGate Extracted C2 Configuration Parameters // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-009_darkgate_arch.svg</image:loc>
+      <image:title>DarkGate Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>DarkGate Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/darkgate_04_traffic.jpeg</image:loc>
+      <image:title>DarkGate HTTP C2 Request Header Analysis</image:title>
+      <image:caption>DarkGate HTTP C2 Request Header Analysis // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/rhadamanthys-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/rhadamanthys-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/rhadamanthys-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/rhadamanthys-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/rhadamanthys-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-010_rhadamanthys_real_01.png</image:loc>
+      <image:title>Rhadamanthys Stealer Operator Panel Interface</image:title>
+      <image:caption>Rhadamanthys Stealer Operator Panel Interface // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-010_rhadamanthys_real_02.svg</image:loc>
+      <image:title>Rhadamanthys Custom Virtual Machine Architecture</image:title>
+      <image:caption>Rhadamanthys Custom Virtual Machine Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-010_rhadamanthys_arch.svg</image:loc>
+      <image:title>Rhadamanthys Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Rhadamanthys Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/stealc-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/stealc-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/stealc-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/stealc-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/stealc-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-011_stealc_real_01.png</image:loc>
+      <image:title>Stealc C2 Communication Protocol Analysis</image:title>
+      <image:caption>Stealc C2 Communication Protocol Analysis // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-011_stealc_real_02.png</image:loc>
+      <image:title>Stealc Modular Data Harvesting Pipeline</image:title>
+      <image:caption>Stealc Modular Data Harvesting Pipeline // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-011_stealc_arch.svg</image:loc>
+      <image:title>Stealc Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Stealc Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/havoc-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/havoc-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/havoc-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/havoc-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/havoc-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-012_havoc_real_01.png</image:loc>
+      <image:title>Havoc Framework Demon Payload Configurator</image:title>
+      <image:caption>Havoc Framework Demon Payload Configurator // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-012_havoc_real_02.png</image:loc>
+      <image:title>Havoc C2 Interactive Session Console</image:title>
+      <image:caption>Havoc C2 Interactive Session Console // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-012_havoc_arch.svg</image:loc>
+      <image:title>Havoc C2 Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Havoc C2 Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/sliver-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/sliver-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/sliver-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/sliver-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/sliver-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-013_sliver_real_01.png</image:loc>
+      <image:title>Sliver C2 Interactive Command Console</image:title>
+      <image:caption>Sliver C2 Interactive Command Console // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-013_sliver_real_02.svg</image:loc>
+      <image:title>Sliver Process Injection &amp; Evasion Engine</image:title>
+      <image:caption>Sliver Process Injection &amp; Evasion Engine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-013_sliver_arch.svg</image:loc>
+      <image:title>Sliver C2 Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Sliver C2 Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/mythic-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/mythic-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/mythic-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/mythic-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/mythic-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-014_mythic_real_01.svg</image:loc>
+      <image:title>Mythic C2 Operation Management Dashboard</image:title>
+      <image:caption>Mythic C2 Operation Management Dashboard // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-014_mythic_real_02.svg</image:loc>
+      <image:title>Mythic Modular Agent Communication Engine</image:title>
+      <image:caption>Mythic Modular Agent Communication Engine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-014_mythic_arch.svg</image:loc>
+      <image:title>Mythic C2 Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Mythic C2 Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/quasarrat-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/quasarrat-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/quasarrat-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/quasarrat-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/quasarrat-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-015_quasarrat_real_01.png</image:loc>
+      <image:title>QuasarRAT Open-Source Builder &amp; Certificate Generator</image:title>
+      <image:caption>QuasarRAT Open-Source Builder &amp; Certificate Generator // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-015_quasarrat_real_02.svg</image:loc>
+      <image:title>QuasarRAT Surveillance &amp; File Manager Interface</image:title>
+      <image:caption>QuasarRAT Surveillance &amp; File Manager Interface // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-015_quasarrat_arch.svg</image:loc>
+      <image:title>QuasarRAT Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>QuasarRAT Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/warzone-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/warzone-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/warzone-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/warzone-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/warzone-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-016_warzone_real_01.png</image:loc>
+      <image:title>Warzone RAT (Ave Maria) Builder Interface</image:title>
+      <image:caption>Warzone RAT (Ave Maria) Builder Interface // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-016_warzone_real_02.svg</image:loc>
+      <image:title>Warzone RAT AveMaria Memory Persistence Engine</image:title>
+      <image:caption>Warzone RAT AveMaria Memory Persistence Engine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-016_warzone_arch.svg</image:loc>
+      <image:title>Warzone RAT / Ave Maria Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Warzone RAT / Ave Maria Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/guloader-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/guloader-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/guloader-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/guloader-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/guloader-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-017_guloader_real_01.jpg</image:loc>
+      <image:title>GuLoader (CloudEyE) Multi-Stage Shellcode Chain</image:title>
+      <image:caption>GuLoader (CloudEyE) Multi-Stage Shellcode Chain // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-017_guloader_real_02.png</image:loc>
+      <image:title>GuLoader Vectored Exception Handling (VEH) Check</image:title>
+      <image:caption>GuLoader Vectored Exception Handling (VEH) Check // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-017_guloader_arch.svg</image:loc>
+      <image:title>GuLoader / CloudEyE Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>GuLoader / CloudEyE Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/pikabot-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/pikabot-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/pikabot-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/pikabot-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/pikabot-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-018_pikabot_real_01.svg</image:loc>
+      <image:title>Pikabot Modular Core Loader Architecture</image:title>
+      <image:caption>Pikabot Modular Core Loader Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-018_pikabot_real_02.svg</image:loc>
+      <image:title>Pikabot Network Beacon &amp; RC4 Decryption</image:title>
+      <image:caption>Pikabot Network Beacon &amp; RC4 Decryption // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-018_pikabot_arch.svg</image:loc>
+      <image:title>Pikabot Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Pikabot Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/qakbot-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/qakbot-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/qakbot-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/qakbot-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/qakbot-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-019_qakbot_real_01.svg</image:loc>
+      <image:title>Qakbot (QBot) Core Web-Inject &amp; Delivery Engine</image:title>
+      <image:caption>Qakbot (QBot) Core Web-Inject &amp; Delivery Engine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-019_qakbot_real_02.svg</image:loc>
+      <image:title>Qakbot Process Replacement in wermgr.exe</image:title>
+      <image:caption>Qakbot Process Replacement in wermgr.exe // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-019_qakbot_arch.svg</image:loc>
+      <image:title>Qakbot / QBot Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Qakbot / QBot Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/emotet-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/emotet-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/emotet-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/emotet-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/emotet-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-020_emotet_real_01.svg</image:loc>
+      <image:title>Emotet Epoch Tier-1 Command Infrastructure</image:title>
+      <image:caption>Emotet Epoch Tier-1 Command Infrastructure // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-020_emotet_real_02.svg</image:loc>
+      <image:title>Emotet Encrypted DLL Loader Disassembly</image:title>
+      <image:caption>Emotet Encrypted DLL Loader Disassembly // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-020_emotet_arch.svg</image:loc>
+      <image:title>Emotet Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Emotet Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/lockbit-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/lockbit-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/lockbit-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/lockbit-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/lockbit-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-021_lockbit_real_01.png</image:loc>
+      <image:title>LockBit 3.0 (Black) Execution Process Tree</image:title>
+      <image:caption>LockBit 3.0 (Black) Execution Process Tree // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-021_lockbit_real_02.png</image:loc>
+      <image:title>LockBit Darknet Tor Extortion Portal</image:title>
+      <image:caption>LockBit Darknet Tor Extortion Portal // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-021_lockbit_arch.svg</image:loc>
+      <image:title>LockBit 3.0 Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>LockBit 3.0 Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/blackcat-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/blackcat-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/blackcat-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/blackcat-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/blackcat-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-022_blackcat_real_01.png</image:loc>
+      <image:title>BlackCat (ALPHV) Rust CLI Execution Parameters</image:title>
+      <image:caption>BlackCat (ALPHV) Rust CLI Execution Parameters // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-022_blackcat_real_02.svg</image:loc>
+      <image:title>BlackCat Recover-My-Files Note &amp; Tor Gateway</image:title>
+      <image:caption>BlackCat Recover-My-Files Note &amp; Tor Gateway // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-022_blackcat_arch.svg</image:loc>
+      <image:title>BlackCat / ALPHV Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>BlackCat / ALPHV Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/akira-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/akira-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/akira-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/akira-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/akira-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-023_akira_real_01.svg</image:loc>
+      <image:title>Akira Ransomware Enterprise Encryption Routine</image:title>
+      <image:caption>Akira Ransomware Enterprise Encryption Routine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-023_akira_real_02.svg</image:loc>
+      <image:title>Akira Volume Shadow Deletion &amp; Service Killer</image:title>
+      <image:caption>Akira Volume Shadow Deletion &amp; Service Killer // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-023_akira_arch.svg</image:loc>
+      <image:title>Akira Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Akira Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/medusa-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/medusa-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/medusa-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/medusa-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/medusa-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-024_medusa_real_01.svg</image:loc>
+      <image:title>Medusa Ransomware Blog &amp; Victim Negotiation Console</image:title>
+      <image:caption>Medusa Ransomware Blog &amp; Victim Negotiation Console // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-024_medusa_real_02.svg</image:loc>
+      <image:title>Medusa Service Termination &amp; Process Sweeper</image:title>
+      <image:caption>Medusa Service Termination &amp; Process Sweeper // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-024_medusa_arch.svg</image:loc>
+      <image:title>Medusa Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Medusa Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/phobos-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/phobos-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/phobos-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/phobos-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/phobos-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-025_phobos_real_01.svg</image:loc>
+      <image:title>Phobos / 8Base Ransomware Execution &amp; Recovery Stub</image:title>
+      <image:caption>Phobos / 8Base Ransomware Execution &amp; Recovery Stub // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-025_phobos_real_02.svg</image:loc>
+      <image:title>Phobos Command and Control Beaconing</image:title>
+      <image:caption>Phobos Command and Control Beaconing // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-025_phobos_arch.svg</image:loc>
+      <image:title>Phobos / 8Base Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Phobos / 8Base Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/formbook-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/formbook-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/formbook-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/formbook-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/formbook-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-026_formbook_real_01.png</image:loc>
+      <image:title>Formbook / XLoader Multi-Level Injection Chain</image:title>
+      <image:caption>Formbook / XLoader Multi-Level Injection Chain // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-026_formbook_real_02.png</image:loc>
+      <image:title>Formbook Traffic Encryption &amp; Decryption Engine</image:title>
+      <image:caption>Formbook Traffic Encryption &amp; Decryption Engine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-026_formbook_arch.svg</image:loc>
+      <image:title>Formbook / XLoader Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Formbook / XLoader Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/bumblebee-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/bumblebee-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/bumblebee-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/bumblebee-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/bumblebee-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-027_bumblebee_real_01.svg</image:loc>
+      <image:title>Bumblebee Modular Loader Staging Routine</image:title>
+      <image:caption>Bumblebee Modular Loader Staging Routine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-027_bumblebee_real_02.svg</image:loc>
+      <image:title>Bumblebee WebSocket C2 Handshake Routine</image:title>
+      <image:caption>Bumblebee WebSocket C2 Handshake Routine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-027_bumblebee_arch.svg</image:loc>
+      <image:title>Bumblebee Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Bumblebee Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/icedid-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/icedid-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/icedid-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/icedid-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/icedid-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-028_icedid_real_01.svg</image:loc>
+      <image:title>IcedID (BokBot) Steganographic PNG Loader</image:title>
+      <image:caption>IcedID (BokBot) Steganographic PNG Loader // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-028_icedid_real_02.svg</image:loc>
+      <image:title>IcedID Process Injection into svchost.exe</image:title>
+      <image:caption>IcedID Process Injection into svchost.exe // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-028_icedid_arch.svg</image:loc>
+      <image:title>IcedID (BokBot) Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>IcedID (BokBot) Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/danabot-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/danabot-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/danabot-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/danabot-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/danabot-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-029_danabot_real_01.svg</image:loc>
+      <image:title>DanaBot Banking Trojan Control Interface</image:title>
+      <image:caption>DanaBot Banking Trojan Control Interface // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-029_danabot_real_02.svg</image:loc>
+      <image:title>DanaBot Modular Architecture &amp; Plugin Loader</image:title>
+      <image:caption>DanaBot Modular Architecture &amp; Plugin Loader // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-029_danabot_arch.svg</image:loc>
+      <image:title>DanaBot Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>DanaBot Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/smokeloader-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/smokeloader-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/smokeloader-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/smokeloader-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/smokeloader-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-030_smokeloader_real_01.svg</image:loc>
+      <image:title>SmokeLoader Modular Plugin System</image:title>
+      <image:caption>SmokeLoader Modular Plugin System // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-030_smokeloader_real_02.svg</image:loc>
+      <image:title>SmokeLoader API Hashing &amp; VM Detection</image:title>
+      <image:caption>SmokeLoader API Hashing &amp; VM Detection // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-030_smokeloader_arch.svg</image:loc>
+      <image:title>SmokeLoader Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>SmokeLoader Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/cobaltstrike-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/cobaltstrike-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/cobaltstrike-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/cobaltstrike-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/cobaltstrike-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-031_cobaltstrike_real_01.png</image:loc>
+      <image:title>Cobalt Strike Listener Management &amp; Beacon Console</image:title>
+      <image:caption>Cobalt Strike Listener Management &amp; Beacon Console // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-031_cobaltstrike_real_02.svg</image:loc>
+      <image:title>Cobalt Strike In-Memory Beacon Reflection Engine</image:title>
+      <image:caption>Cobalt Strike In-Memory Beacon Reflection Engine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-031_cobaltstrike_arch.svg</image:loc>
+      <image:title>Cobalt Strike Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Cobalt Strike Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/bruteratel-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/bruteratel-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/bruteratel-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/bruteratel-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/bruteratel-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-032_bruteratel_real_01.png</image:loc>
+      <image:title>Brute Ratel C4 Badger Execution Graph</image:title>
+      <image:caption>Brute Ratel C4 Badger Execution Graph // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-032_bruteratel_real_02.png</image:loc>
+      <image:title>Brute Ratel Indirect Syscall Execution Routine</image:title>
+      <image:caption>Brute Ratel Indirect Syscall Execution Routine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-032_bruteratel_arch.svg</image:loc>
+      <image:title>Brute Ratel C4 Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Brute Ratel C4 Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/netsupport-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/netsupport-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/netsupport-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/netsupport-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/netsupport-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-033_netsupport_real_01.svg</image:loc>
+      <image:title>NetSupport RAT Gateway Configuration &amp; Deployment</image:title>
+      <image:caption>NetSupport RAT Gateway Configuration &amp; Deployment // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-033_netsupport_real_02.svg</image:loc>
+      <image:title>NetSupport RAT Screen Capture &amp; Keystroke Monitor</image:title>
+      <image:caption>NetSupport RAT Screen Capture &amp; Keystroke Monitor // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-033_netsupport_arch.svg</image:loc>
+      <image:title>NetSupport RAT Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>NetSupport RAT Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/njrat-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/njrat-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/njrat-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/njrat-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/njrat-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-034_njrat_real_01.png</image:loc>
+      <image:title>NjRAT (Bladabindi) Golden Edition Builder Interface</image:title>
+      <image:caption>NjRAT (Bladabindi) Golden Edition Builder Interface // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-034_njrat_real_02.svg</image:loc>
+      <image:title>NjRAT Victim Management &amp; Webcam Surveillance Console</image:title>
+      <image:caption>NjRAT Victim Management &amp; Webcam Surveillance Console // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-034_njrat_arch.svg</image:loc>
+      <image:title>NjRAT / Bladabindi Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>NjRAT / Bladabindi Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/dcrat-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/dcrat-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/dcrat-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/dcrat-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/dcrat-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-035_dcrat_real_01.png</image:loc>
+      <image:title>DCRat (DarkCrystal) Studio &amp; Plugin Builder</image:title>
+      <image:caption>DCRat (DarkCrystal) Studio &amp; Plugin Builder // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-035_dcrat_real_02.svg</image:loc>
+      <image:title>DCRat Botnet Administration Dashboard</image:title>
+      <image:caption>DCRat Botnet Administration Dashboard // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-035_dcrat_arch.svg</image:loc>
+      <image:title>DCRat (DarkCrystal) Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>DCRat (DarkCrystal) Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/purecrypter-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/purecrypter-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/purecrypter-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/purecrypter-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/purecrypter-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-036_purecrypter_real_01.svg</image:loc>
+      <image:title>PureCrypter Multi-Layer Obfuscation Architecture</image:title>
+      <image:caption>PureCrypter Multi-Layer Obfuscation Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-036_purecrypter_real_02.svg</image:loc>
+      <image:title>PureCrypter In-Memory Payload Decryption</image:title>
+      <image:caption>PureCrypter In-Memory Payload Decryption // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-036_purecrypter_arch.svg</image:loc>
+      <image:title>PureCrypter / PureLogs Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>PureCrypter / PureLogs Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/privateloader-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/privateloader-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/privateloader-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/privateloader-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/privateloader-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-037_privateloader_real_01.jpg</image:loc>
+      <image:title>PrivateLoader Pay-Per-Install Distribution Topology</image:title>
+      <image:caption>PrivateLoader Pay-Per-Install Distribution Topology // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-037_privateloader_real_02.png</image:loc>
+      <image:title>PrivateLoader Payload Decryption &amp; Execution Trace</image:title>
+      <image:caption>PrivateLoader Payload Decryption &amp; Execution Trace // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-037_privateloader_arch.svg</image:loc>
+      <image:title>PrivateLoader Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>PrivateLoader Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/systembc-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/systembc-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/systembc-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/systembc-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/systembc-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-038_systembc_real_01.svg</image:loc>
+      <image:title>SystemBC SOCKS5 Tor Proxy Tunnel Architecture</image:title>
+      <image:caption>SystemBC SOCKS5 Tor Proxy Tunnel Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-038_systembc_real_02.svg</image:loc>
+      <image:title>SystemBC Beacon Traffic &amp; Command Protocol</image:title>
+      <image:caption>SystemBC Beacon Traffic &amp; Command Protocol // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-038_systembc_arch.svg</image:loc>
+      <image:title>SystemBC Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>SystemBC Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/mirai-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/mirai-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/mirai-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/mirai-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/mirai-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-039_mirai_real_01.svg</image:loc>
+      <image:title>Mirai IoT Telnet Brute-Force Scanner Routine</image:title>
+      <image:caption>Mirai IoT Telnet Brute-Force Scanner Routine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-039_mirai_real_02.svg</image:loc>
+      <image:title>Mirai SYN and UDP Flood Attack Engine</image:title>
+      <image:caption>Mirai SYN and UDP Flood Attack Engine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-039_mirai_arch.svg</image:loc>
+      <image:title>Mirai &amp; Variants Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Mirai &amp; Variants Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/mozi-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/mozi-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/mozi-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/mozi-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/mozi-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-040_mozi_real_01.svg</image:loc>
+      <image:title>Mozi Botnet DHT P2P Coordination Protocol</image:title>
+      <image:caption>Mozi Botnet DHT P2P Coordination Protocol // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-040_mozi_real_02.svg</image:loc>
+      <image:title>Mozi IoT Zero-Day Exploit Propagation Module</image:title>
+      <image:caption>Mozi IoT Zero-Day Exploit Propagation Module // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-040_mozi_arch.svg</image:loc>
+      <image:title>Mozi Botnet Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Mozi Botnet Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/meduza-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/meduza-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/meduza-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/meduza-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/meduza-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-041_meduza_real_01.svg</image:loc>
+      <image:title>Meduza Stealer Web Administration Dashboard</image:title>
+      <image:caption>Meduza Stealer Web Administration Dashboard // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-041_meduza_real_02.svg</image:loc>
+      <image:title>Meduza Stealer C2 Exfiltration Handshake</image:title>
+      <image:caption>Meduza Stealer C2 Exfiltration Handshake // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-041_meduza_arch.svg</image:loc>
+      <image:title>Meduza Stealer Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Meduza Stealer Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/risepro-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/risepro-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/risepro-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/risepro-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/risepro-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-042_risepro_real_01.webp</image:loc>
+      <image:title>RisePro Stealer Network Communication &amp; Encryption</image:title>
+      <image:caption>RisePro Stealer Network Communication &amp; Encryption // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-042_risepro_real_02.webp</image:loc>
+      <image:title>RisePro Credential Archive Assembly &amp; Dispatch</image:title>
+      <image:caption>RisePro Credential Archive Assembly &amp; Dispatch // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-042_risepro_arch.svg</image:loc>
+      <image:title>RisePro Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>RisePro Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/bunnyloader-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/bunnyloader-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/bunnyloader-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/bunnyloader-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/bunnyloader-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-043_bunnyloader_real_01.svg</image:loc>
+      <image:title>BunnyLoader 3.0 Modular Control Interface</image:title>
+      <image:caption>BunnyLoader 3.0 Modular Control Interface // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-043_bunnyloader_real_02.svg</image:loc>
+      <image:title>BunnyLoader Tasking &amp; Secondary Drop Telemetry</image:title>
+      <image:caption>BunnyLoader Tasking &amp; Secondary Drop Telemetry // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-043_bunnyloader_arch.svg</image:loc>
+      <image:title>BunnyLoader Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>BunnyLoader Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/latrodectus-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/latrodectus-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/latrodectus-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/latrodectus-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/latrodectus-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-044_latrodectus_real_01.png</image:loc>
+      <image:title>Latrodectus High-Stealth Loader Execution Pipeline</image:title>
+      <image:caption>Latrodectus High-Stealth Loader Execution Pipeline // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-044_latrodectus_real_02.svg</image:loc>
+      <image:title>Latrodectus FNV-1a Hashing &amp; C2 Beacon Protocol</image:title>
+      <image:caption>Latrodectus FNV-1a Hashing &amp; C2 Beacon Protocol // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-044_latrodectus_arch.svg</image:loc>
+      <image:title>Latrodectus Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Latrodectus Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/strelastealer-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/strelastealer-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/strelastealer-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/strelastealer-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/strelastealer-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-045_strelastealer_real_01.svg</image:loc>
+      <image:title>StrelaStealer Outlook &amp; Thunderbird Credential Harvester</image:title>
+      <image:caption>StrelaStealer Outlook &amp; Thunderbird Credential Harvester // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-045_strelastealer_real_02.svg</image:loc>
+      <image:title>StrelaStealer C2 Exfiltration Traffic</image:title>
+      <image:caption>StrelaStealer C2 Exfiltration Traffic // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-045_strelastealer_arch.svg</image:loc>
+      <image:title>StrelaStealer Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>StrelaStealer Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/hijackloader-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/hijackloader-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/hijackloader-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/hijackloader-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/hijackloader-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-046_hijackloader_real_01.png</image:loc>
+      <image:title>HijackLoader (IDAT Loader) Image Chunk Extraction</image:title>
+      <image:caption>HijackLoader (IDAT Loader) Image Chunk Extraction // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-046_hijackloader_real_02.svg</image:loc>
+      <image:title>HijackLoader Process Injection into Clean Windows Binary</image:title>
+      <image:caption>HijackLoader Process Injection into Clean Windows Binary // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-046_hijackloader_arch.svg</image:loc>
+      <image:title>HijackLoader Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>HijackLoader Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/rustbucket-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/rustbucket-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/rustbucket-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/rustbucket-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/rustbucket-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-047_rustbucket_real_01.svg</image:loc>
+      <image:title>RustBucket macOS PDF Viewer Lure &amp; Execution</image:title>
+      <image:caption>RustBucket macOS PDF Viewer Lure &amp; Execution // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-047_rustbucket_real_02.svg</image:loc>
+      <image:title>RustBucket Multi-Stage C2 Domain Resolution</image:title>
+      <image:caption>RustBucket Multi-Stage C2 Domain Resolution // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-047_rustbucket_arch.svg</image:loc>
+      <image:title>RustBucket Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>RustBucket Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/atomic-stealer-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/atomic-stealer-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/atomic-stealer-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/atomic-stealer-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/atomic-stealer-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-048_atomic_real_01.png</image:loc>
+      <image:title>Atomic Stealer (AMOS) macOS ClickFix Delivery Lure</image:title>
+      <image:caption>Atomic Stealer (AMOS) macOS ClickFix Delivery Lure // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-048_atomic_real_02.png</image:loc>
+      <image:title>Atomic Stealer Telegram &amp; HTTP Exfiltration Traffic</image:title>
+      <image:caption>Atomic Stealer Telegram &amp; HTTP Exfiltration Traffic // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-048_atomic_arch.svg</image:loc>
+      <image:title>Atomic Stealer (AMOS) Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>Atomic Stealer (AMOS) Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/shadowpad-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/shadowpad-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/shadowpad-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/shadowpad-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/shadowpad-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-049_shadowpad_real_01.svg</image:loc>
+      <image:title>ShadowPad Modular Backdoor Architecture</image:title>
+      <image:caption>ShadowPad Modular Backdoor Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-049_shadowpad_real_02.svg</image:loc>
+      <image:title>ShadowPad Root Loader &amp; DLL Sideloading Routine</image:title>
+      <image:caption>ShadowPad Root Loader &amp; DLL Sideloading Routine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-049_shadowpad_arch.svg</image:loc>
+      <image:title>ShadowPad Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>ShadowPad Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cybertrace.io/threats/plugx-whitepaper.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cybertrace.io/threats/plugx-whitepaper.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cybertrace.io/threats/plugx-whitepaper.html#lang-ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cybertrace.io/threats/plugx-whitepaper.html#lang-hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cybertrace.io/threats/plugx-whitepaper.html"/>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-050_plugx_real_01.png</image:loc>
+      <image:title>PlugX (Korplug) Payload Builder &amp; Configurator</image:title>
+      <image:caption>PlugX (Korplug) Payload Builder &amp; Configurator // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-050_plugx_real_02.svg</image:loc>
+      <image:title>PlugX DLL Search-Order Hijacking Routine</image:title>
+      <image:caption>PlugX DLL Search-Order Hijacking Routine // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cybertrace.io/images/TF-050_plugx_arch.svg</image:loc>
+      <image:title>PlugX / Korplug Technical Infection Chain &amp; Architecture</image:title>
+      <image:caption>PlugX / Korplug Technical Infection Chain &amp; Architecture // Forensic Reverse Engineering Capture stamped Telegram @wgkgi0x0</image:caption>
+    </image:image>
+  </url>
+</urlset>

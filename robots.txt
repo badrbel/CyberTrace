@@ -1,0 +1,29 @@
+# CyberTrace Defensive Threat Intelligence Platform
+# Robots.txt for Global CTI Indexing (Google, Yandex, Bing)
+
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /threats/
+Allow: /css/
+Allow: /js/
+
+User-agent: Googlebot
+Allow: /
+Allow: /images/
+Allow: /threats/
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Yandex
+Allow: /
+Allow: /images/
+Allow: /threats/
+
+User-agent: Bingbot
+Allow: /
+Allow: /images/
+Allow: /threats/
+
+Sitemap: https://cybertrace.io/sitemap.xml
