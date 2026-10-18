@@ -59,33 +59,6 @@ CyberTrace-Platform/
 
 ---
 
-## 🚀 Instant Deployment to GitHub Pages // خطوات الرفع على استضافة GitHub Pages
-
-### الخطوة 1: تهيئة المستودع (Initialize Git)
-افتح الطرفية (PowerShell أو Terminal) داخل المجلد الرئيسي:
-```bash
-cd "C:\Users\bad\Desktop\مجلد جديد\CyberTrace-Platform"
-git init
-git add .
-git commit -m "feat: initial commit of CyberTrace autonomous CTI platform"
-```
-
-### الخطوة 2: ربط المستودع بـ GitHub (Link Remote Repository)
-أنشئ مستودعاً جديداً (Public Repository) على حسابك في GitHub باسم `CyberTrace-Platform`:
-```bash
-git branch -M main
-git remote add origin https://github.com/<YOUR-USERNAME>/CyberTrace-Platform.git
-git push -u origin main
-```
-
-### الخطوة 3: تفعيل GitHub Pages (Enable Pages)
-1. ادخل إلى إعدادات المستودع على GitHub: **Settings** -> **Pages**.
-2. تحت قسم **Build and deployment** / **Source**، اختر: **Deploy from a branch**.
-3. اختر الفرع: **Branch: main** والمجلد: **/ (root)**.
-4. اضغط على **Save**.
-5. خلال ثوانٍ، سيكون موقعك متاحاً عالمياً على الرابط:
-   `https://<YOUR-USERNAME>.github.io/CyberTrace-Platform/`
-
 ---
 
 ## 🛡️ Defensive & Ethical Rules // السياسة الأخلاقية والدفاعية الصارمة
