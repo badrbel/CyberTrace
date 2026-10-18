@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600">
+  <defs>
+    <linearGradient id="bg_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0c10"/>
+      <stop offset="100%" stop-color="#121824"/>
+    </linearGradient>
+    <linearGradient id="panel_grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161f2e"/>
+      <stop offset="100%" stop-color="#0d131d"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="600" fill="url(#bg_grad)" rx="8"/>
+  <rect x="1" y="1" width="998" height="598" fill="none" stroke="#223046" stroke-width="2" rx="7"/>
+
+  <!-- Grid lines -->
+  <path d="M 0 50 L 1000 50 M 0 100 L 1000 100 M 0 550 L 1000 550" stroke="#182333" stroke-width="1"/>
+  
+  <!-- Header Bar -->
+  <rect x="0" y="0" width="1000" height="50" fill="#0d1420" rx="8 8 0 0"/>
+  <circle cx="25" cy="25" r="6" fill="#ff5f56"/>
+  <circle cx="45" cy="25" r="6" fill="#ffbd2e"/>
+  <circle cx="65" cy="25" r="6" fill="#27c93f"/>
+  
+  <text x="100" y="31" fill="#88a0c0" font-family="'Consolas', monospace" font-size="14" font-weight="bold">CYBERTRACE CTI FORENSIC VAULT // TF-021 - LOCKBIT 3.0 BLACK</text>
+  <rect x="840" y="14" width="135" height="22" fill="#1e293b" rx="4" stroke="#00f3ff" stroke-width="1"/>
+  <text x="907" y="29" fill="#00f3ff" font-family="'Consolas', monospace" font-size="11" text-anchor="middle" font-weight="bold">RANSOMWARE</text>
+
+  <!-- Main Content Panel -->
+  <rect x="25" y="70" width="950" height="460" fill="url(#panel_grad)" rx="6" stroke="#223046" stroke-width="1"/>
+
+  <!-- Left Sidebar (Telemetry & Spec) -->
+  <rect x="25" y="70" width="280" height="460" fill="#0f1622" rx="6 0 0 6" stroke="#223046" stroke-width="1"/>
+  <text x="45" y="105" fill="#00f3ff" font-family="'Consolas', monospace" font-size="15" font-weight="bold">LockBit 3.0 Black</text>
+  <text x="45" y="125" fill="#64748b" font-family="'Segoe UI', sans-serif" font-size="12">Multithreaded IOCP Intermittent Cryptor</text>
+  
+  <path d="M 45 140 L 285 140" stroke="#223046" stroke-width="1"/>
+  <text x="45" y="165" fill="#88a0c0" font-family="'Consolas', monospace" font-size="11">ARCH:</text>
+  <text x="45" y="181" fill="#f1f5f9" font-family="'Consolas', monospace" font-size="12" font-weight="bold">C Native</text>
+  <text x="45" y="207" fill="#88a0c0" font-family="'Consolas', monospace" font-size="11">CRYPTO:</text>
+  <text x="45" y="223" fill="#f1f5f9" font-family="'Consolas', monospace" font-size="12" font-weight="bold">ChaCha20 + RSA</text>
+  <text x="45" y="249" fill="#88a0c0" font-family="'Consolas', monospace" font-size="11">SPEED:</text>
+  <text x="45" y="265" fill="#f1f5f9" font-family="'Consolas', monospace" font-size="12" font-weight="bold">IOCP Multi-threaded</text>
+  <text x="45" y="291" fill="#88a0c0" font-family="'Consolas', monospace" font-size="11">ANTI-EDR:</text>
+  <text x="45" y="307" fill="#f1f5f9" font-family="'Consolas', monospace" font-size="12" font-weight="bold">NtSetInformationThread</text>
+  <text x="330" y="105" fill="#94a3b8" font-family="'Consolas', monospace" font-size="13" font-weight="bold">// FORENSIC RECONSTRUCTION &amp; MEMORY DISASSEMBLY</text>
+  
+  <!-- Flow Diagram Boxes -->
+  <g transform="translate(330, 130)">
+    <!-- Stage 1 -->
+    <rect x="0" y="0" width="170" height="90" fill="#131c2a" rx="4" stroke="#334155" stroke-width="1"/>
+    <rect x="0" y="0" width="170" height="24" fill="#1e293b" rx="4 4 0 0"/>
+    <text x="10" y="16" fill="#00f3ff" font-family="'Consolas', monospace" font-size="11" font-weight="bold">STAGE 01: INGESTION</text>
+    <text x="10" y="45" fill="#cbd5e1" font-family="'Consolas', monospace" font-size="11">Initial Delivery</text>
+    <text x="10" y="65" fill="#64748b" font-family="'Consolas', monospace" font-size="10">LNK / ISO / Stager</text>
+
+    <!-- Arrow 1 -->
+    <path d="M 170 45 L 210 45" stroke="#00f3ff" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="3,3"/>
+    
+    <!-- Stage 2 -->
+    <rect x="215" y="0" width="180" height="90" fill="#131c2a" rx="4" stroke="#00f3ff" stroke-width="1.5"/>
+    <rect x="215" y="0" width="180" height="24" fill="#0f2942" rx="4 4 0 0"/>
+    <text x="225" y="16" fill="#38bdf8" font-family="'Consolas', monospace" font-size="11" font-weight="bold">STAGE 02: IN-MEMORY</text>
+    <text x="225" y="45" fill="#cbd5e1" font-family="'Consolas', monospace" font-size="11">Reflective PE Load</text>
+    <text x="225" y="65" fill="#64748b" font-family="'Consolas', monospace" font-size="10">Unhooking &amp; Syscall</text>
+
+    <!-- Arrow 2 -->
+    <path d="M 395 45 L 435 45" stroke="#00f3ff" stroke-width="2" stroke-dasharray="3,3"/>
+
+    <!-- Stage 3 -->
+    <rect x="440" y="0" width="170" height="90" fill="#131c2a" rx="4" stroke="#334155" stroke-width="1"/>
+    <rect x="440" y="0" width="170" height="24" fill="#1e293b" rx="4 4 0 0"/>
+    <text x="450" y="16" fill="#f43f5e" font-family="'Consolas', monospace" font-size="11" font-weight="bold">STAGE 03: EXFIL</text>
+    <text x="450" y="45" fill="#cbd5e1" font-family="'Consolas', monospace" font-size="11">C2 TLS Channel</text>
+    <text x="450" y="65" fill="#64748b" font-family="'Consolas', monospace" font-size="10">Session &amp; DPAPI Dump</text>
+  </g>
+
+  <!-- Live Disassembly / Packet Dump Box -->
+  <rect x="330" y="250" width="620" height="255" fill="#090d14" rx="5" stroke="#1e293b" stroke-width="1"/>
+  <rect x="330" y="250" width="620" height="25" fill="#111827" rx="5 5 0 0"/>
+  <text x="345" y="267" fill="#64748b" font-family="'Consolas', monospace" font-size="11">SESSION FORENSIC LOG &amp; MEMORY TELEMETRY [AUTHENTIC INSPECTION]</text>
+  <text x="345" y="295" fill="#10b981" font-family="'Consolas', monospace" font-size="11">&gt; [SYS] Initializing I/O Completion Ports with 16 parallel cryptographic worker threads</text>
+  <text x="345" y="321" fill="#10b981" font-family="'Consolas', monospace" font-size="11">&gt; [SYS] Enumerating network shares via WNetEnumResourceW (SMB Admin Shares C$, D$)</text>
+  <text x="345" y="347" fill="#10b981" font-family="'Consolas', monospace" font-size="11">&gt; [SYS] Terminating database & backup services: MSSQL, VSS, Veeam, Exchange, MySQL</text>
+  <text x="345" y="373" fill="#10b981" font-family="'Consolas', monospace" font-size="11">&gt; [SYS] Deleting Volume Shadow Copies: vssadmin delete shadows /all /quiet</text>
+  <text x="345" y="399" fill="#10b981" font-family="'Consolas', monospace" font-size="11">&gt; [SYS] Encrypting files with intermittent block mode (first 4KB of every 64KB block)</text>
+  <text x="345" y="425" fill="#10b981" font-family="'Consolas', monospace" font-size="11">&gt; [SYS] Appending extension .HLJKx5O0 and dropping ransom note: HLJKx5O0.README.txt</text>
+
+  <!-- Footer Status Bar -->
+  <text x="25" y="575" fill="#475569" font-family="'Consolas', monospace" font-size="12">STATUS: FORENSIC VERIFIED // LOCAL DISK ONLY // ZERO EXTERNAL ASSET DEPENDENCY</text>
+  <text x="975" y="575" fill="#00f3ff" font-family="'Consolas', monospace" font-size="12" text-anchor="end">CYBERTRACE INTELLIGENCE PLATFORM 2026</text>
+
+  <!-- Telegram Watermark Badge -->
+  <g id="tg-watermark-wgkgi0x0">
+    <rect x="662.0" y="553.0" width="320.0" height="32.0" rx="5" fill="#0f172a" fill-opacity="0.92" stroke="#0ea5e9" stroke-width="1.5"/>
+    <circle cx="680.0" cy="569.0" r="8" fill="#0088cc"/>
+    <text x="680.0" y="572.5" fill="#ffffff" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="900" text-anchor="middle">TG</text>
+    <text x="696.0" y="573.0" fill="#cbd5e1" font-family="'Segoe UI', -apple-system, sans-serif" font-size="11">Telegram: <tspan fill="#38bdf8" font-weight="700">@wgkgi0x0</tspan></text>
+    <text x="877.0" y="573.0" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="10">|</text>
+    <text x="887.0" y="573.0" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="10">t.me/wgkgi0x0</text>
+  </g>
+</svg>

@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&amp;family=Inter:wght@400;600;700&amp;display=swap');
+      .title { font-family: 'Inter', system-ui, sans-serif; font-size: 13px; font-weight: 600; fill: #cbd5e1; }
+      .badge { font-family: 'JetBrains Mono', monospace; font-size: 10px; font-weight: 700; }
+      .code { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #e2e8f0; }
+      .addr { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #64748b; }
+      .bytes { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #94a3b8; }
+      .instr { font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 700; fill: #38bdf8; }
+      .reg { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #f472b6; }
+      .api { font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 700; fill: #4ade80; }
+      .str { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #fbbf24; }
+      .comm { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #06b6d4; font-style: italic; }
+      .tab { font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 600; }
+      .panel { fill: #0b0f19; stroke: #1e293b; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <!-- Window Frame -->
+  <rect x="0" y="0" width="1100" height="620" rx="8" fill="#090d16" stroke="#223046" stroke-width="1.5"/>
+  
+  <!-- Titlebar -->
+  <rect x="0" y="0" width="1100" height="36" rx="8" fill="#0f172a"/>
+  <rect x="0" y="28" width="1100" height="8" fill="#0f172a"/>
+  <line x1="0" y1="36" x2="1100" y2="36" stroke="#1e293b" stroke-width="1"/>
+  
+  <!-- Window Controls -->
+  <circle cx="20" cy="18" r="5.5" fill="#ef4444"/>
+  <circle cx="38" cy="18" r="5.5" fill="#f59e0b"/>
+  <circle cx="56" cy="18" r="5.5" fill="#10b981"/>
+  
+  <!-- Window Title -->
+  <text x="80" y="22" class="title">Wireshark 4.2 // [C2 Network Stream Dissector] - Latrodectus C2 Telemetry Stream</text>
+  <rect x="860" y="9" width="225" height="18" rx="4" fill="#1e293b" stroke="#334155" stroke-width="0.8"/>
+  <text x="868" y="22" class="badge" fill="#38bdf8">WIRESHARK // TF-044 - LATRODECTUS</text>
+
+  <!-- Network Table Header -->
+  <rect x="10" y="46" width="1080" height="26" fill="#131c2e" rx="4"/>
+  <text x="20" y="63" class="badge" fill="#38bdf8">No.</text>
+  <text x="65" y="63" class="badge" fill="#38bdf8">Time</text>
+  <text x="130" y="63" class="badge" fill="#38bdf8">Source</text>
+  <text x="270" y="63" class="badge" fill="#38bdf8">Destination</text>
+  <text x="410" y="63" class="badge" fill="#38bdf8">Proto</text>
+  <text x="470" y="63" class="badge" fill="#38bdf8">Len</text>
+  <text x="520" y="63" class="badge" fill="#38bdf8">Dissected Payload Information / C2 Handshake</text>
+  
+  <!-- Packet Rows -->
+  <rect x="10" y="74" width="1080" height="260" rx="4" class="panel"/>
+  <text x="20" y="95" class="code" font-size="11">1</text>
+  <text x="65" y="95" class="code" font-size="11" fill="#94a3b8">0.0000</text>
+  <text x="130" y="95" class="code" font-size="11">192.168.1.19</text>
+  <text x="270" y="95" class="code" font-size="11">141.98.11.45</text>
+  <text x="410" y="95" class="badge" fill="#a855f7">TCP</text>
+  <text x="470" y="95" class="code" font-size="11" fill="#94a3b8">66</text>
+  <text x="520" y="95" class="code" font-size="11" fill="#e2e8f0">53820 → 443 [SYN] Seq=0 Win=64240</text>
+  <rect x="12" y="103" width="1076" height="20" fill="#111827"/>
+  <text x="20" y="117" class="code" font-size="11">2</text>
+  <text x="65" y="117" class="code" font-size="11" fill="#94a3b8">0.0240</text>
+  <text x="130" y="117" class="code" font-size="11">192.168.1.19</text>
+  <text x="270" y="117" class="code" font-size="11">141.98.11.45</text>
+  <text x="410" y="117" class="badge" fill="#a855f7">HTTP</text>
+  <text x="470" y="117" class="code" font-size="11" fill="#94a3b8">640</text>
+  <text x="520" y="117" class="code" font-size="11" fill="#f43f5e">POST /files/register.php (RC4 Encrypted OS Profile)</text>
+
+  <!-- Hex Dump Panel -->
+  <rect x="10" y="342" width="1080" height="240" rx="4" class="panel"/>
+  <rect x="10" y="342" width="1080" height="24" fill="#131c2e" rx="4"/>
+  <text x="20" y="358" class="badge" fill="#4ade80">Packet Hex &amp; ASCII Stream Details [Follow C2 Stream]</text>
+  
+  <text x="25" y="385" class="addr">0000</text>
+  <text x="75" y="385" class="bytes">50 4f 53 54 20 2f 61 70 69 2f 76 31 2f 67 61 74</text>
+  <text x="440" y="385" class="str">POST /api/v1/gat</text>
+  
+  <text x="25" y="405" class="addr">0010</text>
+  <text x="75" y="405" class="bytes">65 20 48 54 54 50 2f 31 2e 31 0d 0a 48 6f 73 74</text>
+  <text x="440" y="405" class="str">e HTTP/1.1..Host</text>
+  
+  <text x="25" y="425" class="addr">0020</text>
+  <text x="75" y="425" class="bytes">3a 20 74 65 6c 65 6d 65 74 72 79 2d 63 32 2e 69</text>
+  <text x="440" y="425" class="str">: telemetry-c2.i</text>
+
+  <text x="25" y="445" class="addr">0030</text>
+  <text x="75" y="445" class="bytes">6e 66 6f 0d 0a 58 2d 42 6f 74 2d 49 44 3a 20 42</text>
+  <text x="440" y="445" class="str">nfo..X-Bot-ID: B</text>
+
+  <text x="25" y="465" class="addr">0040</text>
+  <text x="75" y="465" class="bytes">4f 54 2d 37 41 38 46 2d 39 30 43 31 0d 0a 43 6f</text>
+  <text x="440" y="445" class="str">OT-7A8F-90C1..Co</text>
+
+  <text x="25" y="485" class="addr">0050</text>
+  <text x="75" y="485" class="bytes">6e 74 65 6e 74 2d 54 79 70 65 3a 20 6f 63 74 65</text>
+  <text x="440" y="485" class="str">nt-Type: octe</text>
+
+  <text x="25" y="505" class="addr">0060</text>
+  <text x="75" y="505" class="bytes">74 2d 73 74 72 65 61 6d 0d 0a 0d 0a e2 9a a0 4b</text>
+  <text x="440" y="505" class="str">t-stream....[ENC</text>
+
+  <text x="25" y="525" class="addr">0070</text>
+  <text x="75" y="525" class="bytes">8d 1a 9f 43 0b 77 c4 12 a8 90 2f b6 51 0e 77 a9</text>
+  <text x="440" y="525" class="str">...C.w..../.Q.w.</text>
+
+  <text x="25" y="545" class="addr">0080</text>
+  <text x="75" y="545" class="bytes">ff 41 8c 30 19 bd 70 e4 22 18 55 a0 6c 73 11 09</text>
+  <text x="440" y="545" class="str">.A.0..p.".U.ls..</text>
+
+  <text x="25" y="565" class="addr">0090</text>
+  <text x="75" y="565" class="bytes">99 44 bb 10 3a 28 e0 71 85 43 a1 90 ce 54 8f 21</text>
+  <text x="440" y="565" class="str">.D..:(.q.C...T.!</text>
+
+  <!-- Telegram Watermark Badge -->
+  <g id="tg-watermark-wgkgi0x0">
+    <rect x="762.0" y="573.0" width="320.0" height="32.0" rx="5" fill="#0f172a" fill-opacity="0.92" stroke="#0ea5e9" stroke-width="1.5"/>
+    <circle cx="780.0" cy="589.0" r="8" fill="#0088cc"/>
+    <text x="780.0" y="592.5" fill="#ffffff" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="900" text-anchor="middle">TG</text>
+    <text x="796.0" y="593.0" fill="#cbd5e1" font-family="'Segoe UI', -apple-system, sans-serif" font-size="11">Telegram: <tspan fill="#38bdf8" font-weight="700">@wgkgi0x0</tspan></text>
+    <text x="977.0" y="593.0" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="10">|</text>
+    <text x="987.0" y="593.0" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="10">t.me/wgkgi0x0</text>
+  </g>
+</svg>

@@ -1,0 +1,122 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600">
+  <defs>
+    <linearGradient id="bg_mirai_01_telnet.svg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07090e"/>
+      <stop offset="100%" stop-color="#11151f"/>
+    </linearGradient>
+    <linearGradient id="cardBg_mirai_01_telnet.svg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b26"/>
+      <stop offset="100%" stop-color="#0c0f17"/>
+    </linearGradient>
+    <filter id="glow_mirai_01_telnet.svg" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Outer Window Frame -->
+  <rect width="1000" height="600" rx="8" fill="url(#bg_mirai_01_telnet.svg)" stroke="#222b3d" stroke-width="2"/>
+  
+  <!-- Titlebar -->
+  <rect width="1000" height="38" rx="8" fill="#121622"/>
+  <rect y="30" width="1000" height="8" fill="#121622"/>
+  <circle cx="20" cy="19" r="6" fill="#ef4444"/>
+  <circle cx="38" cy="19" r="6" fill="#f59e0b"/>
+  <circle cx="56" cy="19" r="6" fill="#10b981"/>
+  <text x="500" y="24" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="12" text-anchor="middle" font-weight="600">Mirai Botnet Core // Telnet Scanner & CNC</text>
+  <rect x="860" y="10" width="120" height="18" rx="3" fill="#ef4444" fill-opacity="0.2" stroke="#ef4444" stroke-width="1"/>
+  <text x="920" y="23" fill="#ef4444" font-family="'JetBrains Mono', monospace" font-size="9" text-anchor="middle" font-weight="700">LAB FORENSIC CAPTURE</text>
+
+  <!-- Left Sidebar Navigation -->
+  <rect x="0" y="38" width="180" height="562" fill="#0a0d14" stroke="#1d2433" stroke-width="1"/>
+  <text x="20" y="68" fill="#58a6ff" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">ACTIVE MODULES</text>
+  
+  <rect x="12" y="82" width="156" height="30" rx="4" fill="#1e2738"/>
+  <text x="25" y="102" fill="#00f0ff" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600">&#9658; Telnet Scanner & CNC</text>
+  <text x="25" y="137" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="11">  C2 Communication</text>
+  <text x="25" y="172" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="11">  Memory Obfuscation</text>
+  <text x="25" y="207" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="11">  Credentials Grabber</text>
+  <text x="25" y="242" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="11">  Anti-Analysis Flags</text>
+  <text x="25" y="277" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="11">  Build &amp; Export</text>
+
+  <rect x="16" y="520" width="148" height="55" rx="4" fill="#121722" stroke="#1d2638" stroke-width="1"/>
+  <text x="25" y="538" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="9">CLASSIFICATION</text>
+  <text x="25" y="555" fill="#f59e0b" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">IoT Botnet</text>
+  <text x="25" y="567" fill="#00f0ff" font-family="'JetBrains Mono', monospace" font-size="9">C</text>
+
+  <!-- Top Telemetry Ribbon -->
+  <rect x="200" y="52" width="780" height="56" rx="6" fill="url(#cardBg_mirai_01_telnet.svg)" stroke="#222b3d" stroke-width="1"/>
+  <text x="220" y="74" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="10">C2 PROTOCOL ARCHITECTURE</text>
+  <text x="220" y="94" fill="#00f0ff" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700">Raw TCP & UDP</text>
+  
+  <text x="520" y="74" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="10">CRYPTOGRAPHIC PAYLOAD</text>
+  <text x="520" y="94" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700">XOR 0xDEADBEEF</text>
+  
+  <text x="780" y="74" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="10">OPERATING STATE</text>
+  <text x="780" y="94" fill="#ef4444" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700">ARMED // ACTIVE 2026</text>
+
+  <!-- Main Left Card (Config / Parameters) -->
+  <rect x="200" y="122" width="470" height="315" rx="6" fill="url(#cardBg_mirai_01_telnet.svg)" stroke="#222b3d" stroke-width="1"/>
+  <text x="220" y="150" fill="#fff" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">Mirai // Execution Parameters</text>
+  
+  <text x="220" y="180" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="11">Attack Vectors:</text>
+  <rect x="220" y="190" width="430" height="28" rx="4" fill="#0d1117" stroke="#2d3548" stroke-width="1"/>
+  <text x="230" y="209" fill="#58a6ff" font-family="'JetBrains Mono', monospace" font-size="11">SYN Flood, UDP Flood, ACK Flood, GRE</text>
+
+  <text x="220" y="242" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="11">Scanning Engine:</text>
+  <rect x="220" y="252" width="430" height="28" rx="4" fill="#0d1117" stroke="#2d3548" stroke-width="1"/>
+  <text x="230" y="271" fill="#f59e0b" font-family="'JetBrains Mono', monospace" font-size="11">Telnet Brute-Force (Port 23 & 2323)</text>
+
+  <text x="220" y="304" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="11">Default Creds:</text>
+  <rect x="220" y="314" width="430" height="28" rx="4" fill="#0d1117" stroke="#2d3548" stroke-width="1"/>
+  <text x="230" y="333" fill="#a371f7" font-family="'JetBrains Mono', monospace" font-size="11">62 Hardcoded Factory Username/Password</text>
+
+  <!-- Anti-Analysis Features -->
+  <rect x="220" y="360" width="14" height="14" rx="2" fill="#00f0ff"/>
+  <text x="242" y="372" fill="#c9d1d9" font-family="'JetBrains Mono', monospace" font-size="11">Dynamic API Hashing &amp; In-Memory Execution</text>
+
+  <rect x="220" y="388" width="14" height="14" rx="2" fill="#00f0ff"/>
+  <text x="242" y="400" fill="#c9d1d9" font-family="'JetBrains Mono', monospace" font-size="11">Bypass EDR User-Mode Hooking via Trampoline Stubs</text>
+
+  <rect x="220" y="416" width="14" height="14" rx="2" fill="#00f0ff"/>
+  <text x="242" y="428" fill="#c9d1d9" font-family="'JetBrains Mono', monospace" font-size="11">Automated Sandbox Introspection &amp; Sleep Masking</text>
+
+  <!-- Right Side Capabilities Card -->
+  <rect x="685" y="122" width="295" height="315" rx="6" fill="url(#cardBg_mirai_01_telnet.svg)" stroke="#222b3d" stroke-width="1"/>
+  <text x="705" y="150" fill="#fff" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">Subsystem Controls</text>
+
+  <rect x="705" y="168" width="255" height="42" rx="4" fill="#101520" stroke="#1d2638" stroke-width="1"/>
+  <text x="720" y="186" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">&#10003; Target Asset Harvester</text>
+  <text x="720" y="200" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="9">DPAPI, Session Tokens, Wallets &amp; Keys</text>
+
+  <rect x="705" y="220" width="255" height="42" rx="4" fill="#101520" stroke="#1d2638" stroke-width="1"/>
+  <text x="720" y="238" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">&#10003; C2 Beacon Loop</text>
+  <text x="720" y="252" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="9">Heartbeat Jitter: 15% +/- 5000ms</text>
+
+  <rect x="705" y="272" width="255" height="42" rx="4" fill="#101520" stroke="#1d2638" stroke-width="1"/>
+  <text x="720" y="290" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">&#10003; Self-Destruct Routine</text>
+  <text x="720" y="304" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="9">cmd.exe /c ping 0 -n 2 &amp; del payload</text>
+
+  <rect x="705" y="375" width="255" height="42" rx="6" fill="#00f0ff" filter="url(#glow_mirai_01_telnet.svg)"/>
+  <text x="832" y="401" fill="#07080a" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" text-anchor="middle">COMPILE </text>
+
+  <!-- Bottom Forensic Telemetry Logs Console -->
+  <rect x="200" y="450" width="780" height="135" rx="6" fill="#080a0f" stroke="#1d2433" stroke-width="1"/>
+  <rect x="200" y="450" width="780" height="24" rx="6" fill="#111622"/>
+  <text x="215" y="466" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="700">FORENSIC CONSOLE LOG // CYBERTRACE DEFENSIVE TELEMETRY</text>
+  
+  <text x="215" y="495" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="10">[15:32:01.120] Mirai scanning loop identified vulnerable IoT router endpoints</text>
+  <text x="215" y="516" fill="#58a6ff" font-family="'JetBrains Mono', monospace" font-size="10">[15:32:01.442] Brute-forced default Telnet credentials and uploaded busybox bot</text>
+  <text x="215" y="537" fill="#f59e0b" font-family="'JetBrains Mono', monospace" font-size="10">[15:32:01.810] Executed volumetric DDoS flood targeting victim enterprise IP</text>
+  <text x="215" y="558" fill="#ef4444" font-family="'JetBrains Mono', monospace" font-size="10">[15:32:02.040] STATUS: ARMED // Memory Artifact Verified via CyberTrace Sandbox</text>
+
+  <!-- Telegram Watermark Badge -->
+  <g id="tg-watermark-wgkgi0x0">
+    <rect x="662.0" y="553.0" width="320.0" height="32.0" rx="5" fill="#0f172a" fill-opacity="0.92" stroke="#0ea5e9" stroke-width="1.5"/>
+    <circle cx="680.0" cy="569.0" r="8" fill="#0088cc"/>
+    <text x="680.0" y="572.5" fill="#ffffff" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="900" text-anchor="middle">TG</text>
+    <text x="696.0" y="573.0" fill="#cbd5e1" font-family="'Segoe UI', -apple-system, sans-serif" font-size="11">Telegram: <tspan fill="#38bdf8" font-weight="700">@wgkgi0x0</tspan></text>
+    <text x="877.0" y="573.0" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="10">|</text>
+    <text x="887.0" y="573.0" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="10">t.me/wgkgi0x0</text>
+  </g>
+</svg>

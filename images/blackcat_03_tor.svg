@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="torBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07090e"/>
+      <stop offset="100%" stop-color="#121622"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="500" fill="url(#torBg)" stroke="#1e2638" stroke-width="2"/>
+  
+  <!-- Tor Browser Bar -->
+  <rect x="0" y="0" width="900" height="42" fill="#141926"/>
+  <circle cx="20" cy="21" r="5" fill="#7c3aed"/>
+  <text x="35" y="25" fill="#c084fc" font-family="'Courier New', monospace" font-size="11" font-weight="bold">TOR ONION ROUTER</text>
+  <rect x="180" y="8" width="540" height="26" rx="13" fill="#090c13" stroke="#2d3748" stroke-width="1"/>
+  <text x="200" y="25" fill="#38bdf8" font-family="'Courier New', monospace" font-size="11">http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion/victim/481</text>
+  <circle cx="705" cy="21" r="4" fill="#10b981"/>
+
+  <!-- Portal Header -->
+  <rect x="30" y="60" width="840" height="70" rx="6" fill="#0d121c" stroke="#2a364f" stroke-width="1"/>
+  <text x="50" y="90" fill="#f43f5e" font-family="'Courier New', monospace" font-size="18" font-weight="bold">ALPHV // BLACKCAT NEGOTIATION CHAT ROOM</text>
+  <text x="50" y="112" fill="#94a3b8" font-family="'Courier New', monospace" font-size="12">VICTIM ID: <tspan fill="#f1f5f9">US-MFG-CORP-91</tspan> | RANSOM DEMAND: <tspan fill="#fbbf24" font-weight="bold">$2,500,000 USD</tspan> (XMR / BTC)</text>
+  <rect x="710" y="75" width="140" height="38" rx="4" fill="#2d151c" stroke="#ef4444" stroke-width="1"/>
+  <text x="725" y="93" fill="#ef4444" font-family="'Courier New', monospace" font-size="10">TIMER TO LEAK</text>
+  <text x="725" y="107" fill="#f87171" font-family="'Courier New', monospace" font-size="12" font-weight="bold">47:19:32</text>
+
+  <!-- Chat Box Layout -->
+  <rect x="30" y="145" width="550" height="320" rx="6" fill="#0a0d14" stroke="#1f293d" stroke-width="1"/>
+  <rect x="30" y="145" width="550" height="30" rx="6" fill="#141a29"/>
+  <text x="45" y="165" fill="#cbd5e1" font-family="sans-serif" font-size="12" font-weight="bold">SECURE NEGOTIATOR CHANNEL</text>
+
+  <!-- Message 1 (Operator) -->
+  <rect x="45" y="190" width="460" height="65" rx="4" fill="#1b172b" stroke="#7c3aed" stroke-width="0.8"/>
+  <text x="55" y="208" fill="#c084fc" font-family="'Courier New', monospace" font-size="11" font-weight="bold">ALPHV OPERATOR [10:14 UTC]</text>
+  <text x="55" y="226" fill="#e2e8f0" font-family="sans-serif" font-size="11">Welcome. We hold the decryption keys for your 42 ESXi hypervisors.</text>
+  <text x="55" y="242" fill="#94a3b8" font-family="sans-serif" font-size="11">Send 3 non-critical files for test decryption to verify key validity.</text>
+
+  <!-- Message 2 (Victim) -->
+  <rect x="100" y="265" width="460" height="50" rx="4" fill="#152132" stroke="#0284c7" stroke-width="0.8"/>
+  <text x="110" y="283" fill="#38bdf8" font-family="'Courier New', monospace" font-size="11" font-weight="bold">INCIDENT RESPONSE TEAM [10:32 UTC]</text>
+  <text x="110" y="301" fill="#e2e8f0" font-family="sans-serif" font-size="11">Uploaded file: backup_config_sample.enc. Awaiting test decrypt.</text>
+
+  <!-- Message 3 (Operator) -->
+  <rect x="45" y="325" width="460" height="55" rx="4" fill="#1b172b" stroke="#7c3aed" stroke-width="0.8"/>
+  <text x="55" y="343" fill="#c084fc" font-family="'Courier New', monospace" font-size="11" font-weight="bold">ALPHV OPERATOR [10:35 UTC]</text>
+  <text x="55" y="361" fill="#4ade80" font-family="sans-serif" font-size="11">Decrypted sample file verified. Payment address generated below.</text>
+
+  <!-- Right Side Panel: Payment Details -->
+  <rect x="600" y="145" width="270" height="320" rx="6" fill="#0d121c" stroke="#25354e" stroke-width="1"/>
+  <text x="615" y="172" fill="#fbbf24" font-family="'Courier New', monospace" font-size="12" font-weight="bold">PAYMENT TELEMETRY</text>
+
+  <rect x="615" y="190" width="240" height="60" rx="4" fill="#181e2b"/>
+  <text x="625" y="210" fill="#94a3b8" font-family="'Courier New', monospace" font-size="10">MONERO (XMR) REBATE - 10%</text>
+  <text x="625" y="232" fill="#f8fafc" font-family="'Courier New', monospace" font-size="12" font-weight="bold">15,480.22 XMR</text>
+
+  <rect x="615" y="260" width="240" height="60" rx="4" fill="#181e2b"/>
+  <text x="625" y="280" fill="#94a3b8" font-family="'Courier New', monospace" font-size="10">BITCOIN (BTC) ADDRESS</text>
+  <text x="625" y="300" fill="#cbd5e1" font-family="'Courier New', monospace" font-size="9">bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq</text>
+
+  <rect x="615" y="335" width="240" height="110" rx="4" fill="#0a0d14" stroke="#334155" stroke-width="1"/>
+  <text x="625" y="358" fill="#38bdf8" font-family="'Courier New', monospace" font-size="11" font-weight="bold">PROMISED DELIVERABLES:</text>
+  <text x="625" y="380" fill="#94a3b8" font-family="sans-serif" font-size="10">&#x2714; Universal Linux/ESXi Decryptor</text>
+  <text x="625" y="400" fill="#94a3b8" font-family="sans-serif" font-size="10">&#x2714; Private RSA-4096 Master Key</text>
+  <text x="625" y="420" fill="#94a3b8" font-family="sans-serif" font-size="10">&#x2714; Permanent deletion of leak data</text>
+
+  <!-- Telegram Watermark Badge -->
+  <g id="tg-watermark-wgkgi0x0">
+    <rect x="562.0" y="453.0" width="320.0" height="32.0" rx="5" fill="#0f172a" fill-opacity="0.92" stroke="#0ea5e9" stroke-width="1.5"/>
+    <circle cx="580.0" cy="469.0" r="8" fill="#0088cc"/>
+    <text x="580.0" y="472.5" fill="#ffffff" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="900" text-anchor="middle">TG</text>
+    <text x="596.0" y="473.0" fill="#cbd5e1" font-family="'Segoe UI', -apple-system, sans-serif" font-size="11">Telegram: <tspan fill="#38bdf8" font-weight="700">@wgkgi0x0</tspan></text>
+    <text x="777.0" y="473.0" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="10">|</text>
+    <text x="787.0" y="473.0" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="10">t.me/wgkgi0x0</text>
+  </g>
+</svg>

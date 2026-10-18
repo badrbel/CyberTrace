@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d14"/>
+      <stop offset="100%" stop-color="#111824"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="500" fill="url(#bg)" stroke="#1c2536" stroke-width="2"/>
+  
+  <!-- Header Bar -->
+  <rect x="0" y="0" width="900" height="46" fill="#151e2e"/>
+  <rect x="20" y="13" width="20" height="20" fill="#0078d4" rx="3"/>
+  <text x="27" y="28" fill="#ffffff" font-family="sans-serif" font-weight="bold" font-size="12">M</text>
+  <text x="50" y="28" fill="#e2e8f0" font-family="sans-serif" font-size="14" font-weight="600">Microsoft Defender XDR // Incident #40881 - Cross-Process Injection Detected</text>
+  <rect x="760" y="12" width="120" height="22" rx="3" fill="#3b1219" stroke="#ef4444" stroke-width="1"/>
+  <text x="772" y="27" fill="#ef4444" font-family="sans-serif" font-size="11" font-weight="bold">SEVERITY: HIGH</text>
+
+  <!-- Incident Summary Box -->
+  <rect x="25" y="65" width="850" height="90" rx="6" fill="#0e1422" stroke="#25354e" stroke-width="1"/>
+  <text x="45" y="92" fill="#94a3b8" font-family="'Courier New', monospace" font-size="12">DEVICE: <tspan fill="#f8fafc" font-weight="bold">CORP-SEC-WS04.contoso.local</tspan> | IP: <tspan fill="#38bdf8">10.240.12.88</tspan> | OS: <tspan fill="#cbd5e1">Windows 11 Enterprise 23H2</tspan></text>
+  <text x="45" y="115" fill="#94a3b8" font-family="'Courier New', monospace" font-size="12">DETECTION: <tspan fill="#f87171" font-weight="bold">Suspicious Memory Allocation & Remote Thread Hijack (MITRE T1055.002)</tspan></text>
+  <text x="45" y="138" fill="#94a3b8" font-family="'Courier New', monospace" font-size="12">ACTOR PROFILE: <tspan fill="#fbbf24">UNC1549 / SilverFish Clustered C2 Beacon Activity</tspan></text>
+
+  <!-- Process Tree Timeline -->
+  <rect x="25" y="170" width="850" height="295" rx="6" fill="#0b101b" stroke="#1e293b" stroke-width="1"/>
+  <text x="45" y="195" fill="#38bdf8" font-family="'Courier New', monospace" font-size="13" font-weight="bold">TELEMETRY TIMELINE & CALL STACK CORRELATION</text>
+
+  <!-- Event 1 -->
+  <line x1="60" y1="225" x2="60" y2="430" stroke="#334155" stroke-width="2" stroke-dasharray="4"/>
+  
+  <circle cx="60" cy="225" r="7" fill="#ef4444" stroke="#ffffff" stroke-width="2"/>
+  <text x="80" y="222" fill="#64748b" font-family="'Courier New', monospace" font-size="11">14:22:04.192 UTC</text>
+  <text x="80" y="238" fill="#f8fafc" font-family="'Courier New', monospace" font-size="12"><tspan fill="#f87171" font-weight="bold">msedge.exe (PID 6104)</tspan> spawns suspicious child process <tspan fill="#fbbf24" font-weight="bold">powershell.exe -w hidden -enc</tspan></text>
+
+  <!-- Event 2 -->
+  <circle cx="60" cy="290" r="7" fill="#f59e0b" stroke="#ffffff" stroke-width="2"/>
+  <text x="80" y="287" fill="#64748b" font-family="'Courier New', monospace" font-size="11">14:22:06.401 UTC</text>
+  <text x="80" y="303" fill="#f8fafc" font-family="'Courier New', monospace" font-size="12"><tspan fill="#38bdf8" font-weight="bold">OpenProcess(0x1F0FFF)</tspan> targeting target process <tspan fill="#a855f7" font-weight="bold">explorer.exe (PID 4892)</tspan></text>
+
+  <!-- Event 3 -->
+  <circle cx="60" cy="355" r="7" fill="#ef4444" stroke="#ffffff" stroke-width="2"/>
+  <text x="80" y="352" fill="#64748b" font-family="'Courier New', monospace" font-size="11">14:22:07.019 UTC</text>
+  <text x="80" y="368" fill="#f8fafc" font-family="'Courier New', monospace" font-size="12"><tspan fill="#f87171" font-weight="bold">VirtualAllocEx()</tspan> allocated RWX page [Size: 0xB00000] & injected Sliver payload</text>
+
+  <!-- Event 4 -->
+  <circle cx="60" cy="420" r="7" fill="#10b981" stroke="#ffffff" stroke-width="2"/>
+  <text x="80" y="417" fill="#64748b" font-family="'Courier New', monospace" font-size="11">14:22:08.552 UTC</text>
+  <text x="80" y="433" fill="#f8fafc" font-family="'Courier New', monospace" font-size="12"><tspan fill="#10b981" font-weight="bold">NETWORK CONNECTION BLOCKED</tspan> Outbound WireGuard UDP/53 -> 185.220.101.5:8888</text>
+
+  <!-- Telegram Watermark Badge -->
+  <g id="tg-watermark-wgkgi0x0">
+    <rect x="562.0" y="453.0" width="320.0" height="32.0" rx="5" fill="#0f172a" fill-opacity="0.92" stroke="#0ea5e9" stroke-width="1.5"/>
+    <circle cx="580.0" cy="469.0" r="8" fill="#0088cc"/>
+    <text x="580.0" y="472.5" fill="#ffffff" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="900" text-anchor="middle">TG</text>
+    <text x="596.0" y="473.0" fill="#cbd5e1" font-family="'Segoe UI', -apple-system, sans-serif" font-size="11">Telegram: <tspan fill="#38bdf8" font-weight="700">@wgkgi0x0</tspan></text>
+    <text x="777.0" y="473.0" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="10">|</text>
+    <text x="787.0" y="473.0" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="10">t.me/wgkgi0x0</text>
+  </g>
+</svg>

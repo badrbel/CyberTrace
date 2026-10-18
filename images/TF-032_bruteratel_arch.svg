@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620">
+  <defs>
+    <linearGradient id="bg_TF-032" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07090e"/>
+      <stop offset="100%" stop-color="#0f141f"/>
+    </linearGradient>
+    <linearGradient id="card_TF-032" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#141a27"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <filter id="glow_TF-032" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect width="1000" height="620" rx="10" fill="url(#bg_TF-032)" stroke="#1f283d" stroke-width="2"/>
+
+  <!-- Top Titlebar Ribbon -->
+  <rect x="0" y="0" width="1000" height="48" rx="10" fill="#0d111a" stroke="#1f283d" stroke-width="1"/>
+  <rect x="0" y="38" width="1000" height="10" fill="#0d111a"/>
+  
+  <!-- Terminal Indicators -->
+  <circle cx="24" cy="24" r="5" fill="#ef4444"/>
+  <circle cx="40" cy="24" r="5" fill="#f59e0b"/>
+  <circle cx="56" cy="24" r="5" fill="#10b981"/>
+
+  <text x="80" y="29" fill="#94a3b8" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="12" font-weight="700">CYBERTRACE INTELLIGENCE PLATFORM // TECHNICAL ARCHITECTURE SCHEMATIC</text>
+  
+  <rect x="790" y="14" width="190" height="22" rx="4" fill="#8b5cf6" fill-opacity="0.15" stroke="#8b5cf6" stroke-width="1"/>
+  <text x="885" y="29" fill="#8b5cf6" font-family="'JetBrains Mono', monospace" font-size="10" text-anchor="middle" font-weight="800">STRICT 1-TO-1 SPEC: TF-032</text>
+
+  <!-- Threat Overview Header Card -->
+  <rect x="25" y="65" width="950" height="75" rx="6" fill="#111622" stroke="#232d42" stroke-width="1"/>
+  
+  <!-- Accent Edge Bar -->
+  <rect x="25" y="65" width="5" height="75" rx="2" fill="#8b5cf6"/>
+  
+  <text x="45" y="96" fill="#ffffff" font-family="'Segoe UI', -apple-system, sans-serif" font-size="20" font-weight="800">Brute Ratel C4</text>
+  <text x="45" y="122" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="11">CLASS: <tspan fill="#8b5cf6" font-weight="700">C2 Framework</tspan> | LANG: <tspan fill="#e2e8f0">C / Assembly</tspan> | CORE ARCH: <tspan fill="#e2e8f0">EDR-Evasion Centric C2</tspan></text>
+  
+  <rect x="830" y="80" width="130" height="45" rx="4" fill="#0a0d14" stroke="#232d42" stroke-width="1"/>
+  <text x="895" y="98" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="9" text-anchor="middle">STATUS</text>
+  <text x="895" y="115" fill="#22c55e" font-family="'JetBrains Mono', monospace" font-size="12" text-anchor="middle" font-weight="800">● ACTIVE</text>
+
+  <!-- Execution Pipeline: 4 Core Sequential Stages -->
+  
+  <!-- Stage 1 -->
+  <g transform="translate(25, 160)">
+    <rect width="218" height="290" rx="6" fill="url(#card_TF-032)" stroke="#222c40" stroke-width="1"/>
+    <rect x="0" y="0" width="218" height="34" rx="6" fill="#161e2e"/>
+    <rect x="0" y="26" width="218" height="8" fill="#161e2e"/>
+    <text x="14" y="22" fill="#8b5cf6" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="800">STAGE 01</text>
+    <text x="14" y="58" fill="#f1f5f9" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700">Initial Delivery</text>
+    <line x1="14" y1="70" x2="204" y2="70" stroke="#222c40" stroke-width="1"/>
+    <text x="14" y="95" fill="#94a3b8" font-family="'Segoe UI', sans-serif" font-size="11" width="190">
+      <tspan x="14" dy="0">Adversary Operator Profile &</tspan>
+      <tspan x="14" dy="18"> Payload Generation Stub</tspan>
+      <tspan x="14" dy="18"></tspan>
+    </text>
+    <rect x="14" y="235" width="190" height="40" rx="4" fill="#0d111a" stroke="#1e2638" stroke-width="1"/>
+    <text x="24" y="252" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="9">VECTOR TYPE</text>
+    <text x="24" y="266" fill="#8b5cf6" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">Inbound Delivery</text>
+  </g>
+
+  <!-- Connector 1 -> 2 -->
+  <path d="M 243 305 L 269 305" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="4,3"/>
+  <polygon points="269,301 275,305 269,309" fill="#8b5cf6"/>
+
+  <!-- Stage 2 -->
+  <g transform="translate(269, 160)">
+    <rect width="218" height="290" rx="6" fill="url(#card_TF-032)" stroke="#222c40" stroke-width="1"/>
+    <rect x="0" y="0" width="218" height="34" rx="6" fill="#161e2e"/>
+    <rect x="0" y="26" width="218" height="8" fill="#161e2e"/>
+    <text x="14" y="22" fill="#8b5cf6" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="800">STAGE 02</text>
+    <text x="14" y="58" fill="#f1f5f9" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700">Evasion &amp; Execution</text>
+    <line x1="14" y1="70" x2="204" y2="70" stroke="#222c40" stroke-width="1"/>
+    <text x="14" y="95" fill="#94a3b8" font-family="'Segoe UI', sans-serif" font-size="11">
+      <tspan x="14" dy="0">Direct Syscall Invocation & </tspan>
+      <tspan x="14" dy="18">EDR Hook Bypass (T1106)</tspan>
+      <tspan x="14" dy="18"></tspan>
+    </text>
+    <rect x="14" y="235" width="190" height="40" rx="4" fill="#0d111a" stroke="#1e2638" stroke-width="1"/>
+    <text x="24" y="252" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="9">DEFENSE EVASION</text>
+    <text x="24" y="266" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">Memory Unhooking</text>
+  </g>
+
+  <!-- Connector 2 -> 3 -->
+  <path d="M 487 305 L 513 305" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="4,3"/>
+  <polygon points="513,301 519,305 513,309" fill="#8b5cf6"/>
+
+  <!-- Stage 3 -->
+  <g transform="translate(513, 160)">
+    <rect width="218" height="290" rx="6" fill="url(#card_TF-032)" stroke="#222c40" stroke-width="1"/>
+    <rect x="0" y="0" width="218" height="34" rx="6" fill="#161e2e"/>
+    <rect x="0" y="26" width="218" height="8" fill="#161e2e"/>
+    <text x="14" y="22" fill="#8b5cf6" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="800">STAGE 03</text>
+    <text x="14" y="58" fill="#f1f5f9" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700">Core Objectives</text>
+    <line x1="14" y1="70" x2="204" y2="70" stroke="#222c40" stroke-width="1"/>
+    <text x="14" y="95" fill="#94a3b8" font-family="'Segoe UI', sans-serif" font-size="11">
+      <tspan x="14" dy="0">Lateral Movement, Post-Explo</tspan>
+      <tspan x="14" dy="18">itation & Process Migration</tspan>
+      <tspan x="14" dy="18"></tspan>
+    </text>
+    <rect x="14" y="235" width="190" height="40" rx="4" fill="#0d111a" stroke="#1e2638" stroke-width="1"/>
+    <text x="24" y="252" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="9">MALWARE MISSION</text>
+    <text x="24" y="266" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">C2 Framework Modules</text>
+  </g>
+
+  <!-- Connector 3 -> 4 -->
+  <path d="M 731 305 L 757 305" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="4,3"/>
+  <polygon points="757,301 763,305 757,309" fill="#8b5cf6"/>
+
+  <!-- Stage 4 -->
+  <g transform="translate(757, 160)">
+    <rect width="218" height="290" rx="6" fill="url(#card_TF-032)" stroke="#222c40" stroke-width="1"/>
+    <rect x="0" y="0" width="218" height="34" rx="6" fill="#161e2e"/>
+    <rect x="0" y="26" width="218" height="8" fill="#161e2e"/>
+    <text x="14" y="22" fill="#8b5cf6" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="800">STAGE 04</text>
+    <text x="14" y="58" fill="#f1f5f9" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700">C2 &amp; Exfiltration</text>
+    <line x1="14" y1="70" x2="204" y2="70" stroke="#222c40" stroke-width="1"/>
+    <text x="14" y="95" fill="#94a3b8" font-family="'Segoe UI', sans-serif" font-size="11">
+      <tspan x="14" dy="0">Malleable C2 Profile & Redun</tspan>
+      <tspan x="14" dy="18">dant Egress Listener: Badger</tspan>
+      <tspan x="14" dy="18"> Agent, DoH, Custom Syscalls</tspan>
+    </text>
+    <rect x="14" y="235" width="190" height="40" rx="4" fill="#0d111a" stroke="#1e2638" stroke-width="1"/>
+    <text x="24" y="252" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="9">C2 INFRASTRUCTURE</text>
+    <text x="24" y="266" fill="#8b5cf6" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">Badger Agent, DoH, C...</text>
+  </g>
+
+  <!-- Bottom MITRE ATT&CK Ribbon -->
+  <rect x="25" y="470" width="950" height="60" rx="6" fill="#0d111a" stroke="#1f283d" stroke-width="1"/>
+  <text x="45" y="495" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">VERIFIED MITRE ATT&amp;CK TECHNIQUES MAPPING</text>
+  <text x="45" y="515" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">T1055  •  T1027  •  T1562.001</text>
+
+  <!-- Technical Verification Hash / Footer -->
+  <text x="25" y="565" fill="#475569" font-family="'JetBrains Mono', monospace" font-size="10">CYBERTRACE CTI ID: CT-SPEC-032-2026 // STRICT 1-TO-1 FORENSIC ATTRIBUTION ASSURED</text>
+  <text x="975" y="565" fill="#475569" font-family="'JetBrains Mono', monospace" font-size="10" text-anchor="end">CONFIDENTIAL // DEFENSIVE CTI OPERATIONS</text>
+  
+  <!-- Diagnostic Scanline -->
+  <line x1="25" y1="580" x2="975" y2="580" stroke="#1e2638" stroke-width="1"/>
+
+  <!-- Telegram Watermark Badge -->
+  <g id="tg-watermark-wgkgi0x0">
+    <rect x="662.0" y="573.0" width="320.0" height="32.0" rx="5" fill="#0f172a" fill-opacity="0.92" stroke="#0ea5e9" stroke-width="1.5"/>
+    <circle cx="680.0" cy="589.0" r="8" fill="#0088cc"/>
+    <text x="680.0" y="592.5" fill="#ffffff" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="900" text-anchor="middle">TG</text>
+    <text x="696.0" y="593.0" fill="#cbd5e1" font-family="'Segoe UI', -apple-system, sans-serif" font-size="11">Telegram: <tspan fill="#38bdf8" font-weight="700">@wgkgi0x0</tspan></text>
+    <text x="877.0" y="593.0" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="10">|</text>
+    <text x="887.0" y="593.0" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="10">t.me/wgkgi0x0</text>
+  </g>
+</svg>
